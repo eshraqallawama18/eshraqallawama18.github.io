@@ -109,7 +109,7 @@ I am a recent graduate in AI and Data scince from Alhussin Bin Talal unviversty 
   - Repo: [link](#)
   - Skills: Full-stack AI/ML system
 
----
+ ---
 
 ## Contact
 
