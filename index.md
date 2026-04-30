@@ -113,6 +113,6 @@ I am a recent graduate in AI and Data scince from Alhussin Bin Talal unviversty 
 
 ## Contact
 
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **GitHub:** [https://github.com/eshraqallawama18]
+- **LinkedIn:** [www.linkedin.com/in/eshraq-allawama-787430294]
+- **Email:** allawamae@gmail.com
